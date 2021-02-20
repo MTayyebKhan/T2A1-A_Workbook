@@ -2,6 +2,14 @@
 
 # **T2A1-A Workbook by Muhammed Tayyeb Khan**
 
+<br>
+
+**Github Repo**
+
+https://github.com/MTayyebKhan/T2A1-A_Workbook
+
+<br>
+
 **Q1 - Describe the architecture of a typical Rails application (208 words)**
 
 ***Answer***
